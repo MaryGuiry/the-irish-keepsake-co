@@ -6,11 +6,11 @@
     "build": "vite build",
     "start": "serve -s dist"
   },
- "dependencies": {
+"dependencies": {
+  "vite": "^6.3.0",
   "serve": "^14.2.0",
   "react": "^18.3.0",
-  "react-dom": "^18.3.0",
-  "vite": "^6.3.0"
- },
-  "devDependencies": {}
+  "react-dom": "^18.3.0"
+},
+"devDependencies": {}
 }
